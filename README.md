@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+### Feel Free to Contact me.....
+
+<p align="center">
+	<a href="https://github.com/machfudik"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/machfudichsan/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/machfudkhoirudin/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/machfudsan/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+</p>
+
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{machfudik}/count.svg)
+![](https://komarev.com/ghpvc/?username=machfudik&color=green)
 <!--
 **machfudik/machfudik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
