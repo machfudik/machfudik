@@ -3,6 +3,11 @@
 <h1 align="center">Hi Everyone!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h4 align="center">I'm Machfud Khoirudin.</h4>
 
+
+## 🔎 About Me
+- 🌱 I'm an undergraduate student majoring in Information Technology at [Telkom University Surabaya](https://surabaya.telkomuniversity.ac.id/)
+- 📑 Bangkit 2024 Batch 1 Android Mobile Programming Participant at [Bangkit Academy led by Google, Tokopedia, Gojek, and Traveloka](https://grow.google/intl/id_id/bangkit/).<br><br><br>
+
 ## 📊 Stats
 
 <p align="left">
@@ -11,9 +16,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=machfudik&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<!-- ![icons8-twitterx-100](https://github.com/machfudik/machfudik/assets/169963261/5da2bbe8-7165-4bc7-b894-cb2fe9003885) -->
-<!-- ![image](https://github.com/machfudik/machfudik/assets/169963261/fb3c99b4-1664-4c18-b864-dcebb31b4217) -->
-<!-- ![image](https://github.com/machfudik/machfudik/assets/169963261/0aae9c2f-a316-49bb-b5f9-1d576a5f9149) -->
+
 
 ### Feel Free to Contact me.....
 
@@ -26,7 +29,7 @@
 	<a href="https://t.me/ijklmnopy/"><img alt="telegran" width="10%" style="padding:5px" src="https://github.com/machfudik/machfudik/assets/169963261/0aae9c2f-a316-49bb-b5f9-1d576a5f9149"/></a>
 </p>
 
-#### Profile views and followers counter
+#### Profile Views and Followers counter++
 
 ![](https://komarev.com/ghpvc/?username=machfudik&color=green)
 <a href="https://github.com/machfudik?tab=followers"><img src="https://img.shields.io/github/followers/machfudik?label=Followers&style=social" alt="GitHub Badge"></a>
