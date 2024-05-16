@@ -13,7 +13,7 @@
 </p>
 <!-- ![icons8-twitterx-100](https://github.com/machfudik/machfudik/assets/169963261/5da2bbe8-7165-4bc7-b894-cb2fe9003885) -->
 <!-- ![image](https://github.com/machfudik/machfudik/assets/169963261/fb3c99b4-1664-4c18-b864-dcebb31b4217) -->
-![image](https://github.com/machfudik/machfudik/assets/169963261/0aae9c2f-a316-49bb-b5f9-1d576a5f9149)
+<!-- ![image](https://github.com/machfudik/machfudik/assets/169963261/0aae9c2f-a316-49bb-b5f9-1d576a5f9149) -->
 
 ### Feel Free to Contact me.....
 
@@ -27,13 +27,14 @@
 </p>
 
 #### Profile views and followers counter
-![Visitor Count](https://profile-counter.glitch.me/{machfudik}/count.svg)
+
 ![](https://komarev.com/ghpvc/?username=machfudik&color=green)
 <a href="https://github.com/machfudik?tab=followers"><img src="https://img.shields.io/github/followers/machfudik?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <!--
-"https://www.facebook.com/machfudkhoirudin/
+![Visitor Count](https://profile-counter.glitch.me/{machfudik}/count.svg)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
