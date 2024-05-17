@@ -23,10 +23,10 @@
 <p align="center">
 	<a href="https://github.com/machfudik"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/machfudichsan/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://x.com/Machfudichsank"><img alt="twitter" width="10%" style="padding:5px" src=https://github.com/machfudik/machfudik/assets/169963261/fb3c99b4-1664-4c18-b864-dcebb31b4217"/></a>
+	<a href="https://twitter.com/Machfudichsank"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/twitter-squared.png"/></a>
 	<a href="https://web.facebook.com/machfudkhoir"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://www.instagram.com/machfudsan/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://t.me/ijklmnopy/"><img alt="telegran" width="10%" style="padding:5px" src="https://github.com/machfudik/machfudik/assets/169963261/0aae9c2f-a316-49bb-b5f9-1d576a5f9149"/></a>
+	<a href="https://t.me/ijklmnopy/"><img alt="telegran" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/telegram-app.png"/></a>
 </p>
 
 
@@ -54,20 +54,7 @@
 <!-- next update 
 1. each category for certificate
 2. add knowlage language
-
-| Header      | Title       | Here's this   |
-| Header      | Title       | Here's this   |
-| Header      | Title       | Here's this   |
-   - [Certificate Link](https://www.dicoding.com/certificates/)
-   - [Certificate Link](https://www.dicoding.com/certificates/)
-   - [Certificate Link](https://www.dicoding.com/certificates/)
-   - [Certificate Link](https://www.dicoding.com/certificates/)
-   - [Certificate Link](https://www.dicoding.com/certificates/)
-   - [Certificate Link](https://www.dicoding.com/certificates/)
-   - [Certificate Link](https://www.dicoding.com/certificates/)
-   - [Certificate Link](https://www.dicoding.com/certificates/)
-   - [Certificate Link](https://www.dicoding.com/certificates/)
-   - [Certificate Link](https://www.dicoding.com/certificates/)
+| xxxx     | Dicoding       |  [ Link](https://www.dicoding.com/certificates/xxxxx)   |
 -->
 ### Profile Views and Followers counter++
 
