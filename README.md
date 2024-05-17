@@ -34,7 +34,8 @@
 ![](https://komarev.com/ghpvc/?username=machfudik&color=green)
 <a href="https://github.com/machfudik?tab=followers"><img src="https://img.shields.io/github/followers/machfudik?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![Snake animation](https://raw.githubusercontent.com/{machfudik}/{machfudik}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/machfudik/machfudik/output/github-contribution-grid-snake-dark.svg)
+
 <!--
 ![Visitor Count](https://profile-counter.glitch.me/{machfudik}/count.svg)
 
