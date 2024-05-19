@@ -8,9 +8,9 @@
 - 🌱 I'm an undergraduate student majoring in Information Technology at [Telkom University Surabaya](https://surabaya.telkomuniversity.ac.id/)
 - 📑 Bangkit 2024 Batch 1 Android Mobile Programming Participant at [Bangkit Academy led by Google, Tokopedia, Gojek, and Traveloka](https://grow.google/intl/id_id/bangkit/).<br><br><br>
 ---
-## 📊 Stats
+## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/machfudik">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=machfudik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=machfudik&layout=compact&langs_count=8&theme=algolia"/>
